@@ -1,6 +1,6 @@
 # Sistema Integral de Pedidos (SIP) - OrderSync
 
-El **Sistema Integral de Pedidos (SIP)** es una solución completa para gestionar clientes, productos, pedidos y facturación en un negocio. Está diseñado utilizando Java y Spring Boot, siguiendo buenas prácticas de desarrollo y una arquitectura escalable.
+El **Sistema Integral de Pedidos (SIP)** es una solución completa para gestionar clientes, productos y pedidos de un negocio. Está diseñado utilizando Java y Spring Boot.
 
 ## Características principales
 
